@@ -11,6 +11,6 @@ public class BoardController {
     @ResponseBody
     public String main() {
 
-        return "Hello MSWorld!";
+        return "Hello MSWorld22222!!!!!!!!!!";
     }
 }
